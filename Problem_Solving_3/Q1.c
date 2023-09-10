@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+/* Write a C program to swap 2 variables without using a third temporary variable. */
 
 void swapVariables (int* first, int* second);
 
