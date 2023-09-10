@@ -11,16 +11,16 @@ Regularly practicing problem-solving questions helps improve your coding skills 
 Problem-solving questions challenge you to think critically and analytically. They improve your ability to break down complex problems into smaller, manageable parts. This skill is essential not only in programming but also in various other domains.
 
 ## Increases familiarity with common algorithms and data structures: 
-    Problem-solving questions often involve the use of fundamental algorithms and data structures. By solving a variety of problems, you become more comfortable with concepts like sorting, searching, linked lists, arrays, stacks, queues, and more.
+Problem-solving questions often involve the use of fundamental algorithms and data structures. By solving a variety of problems, you become more comfortable with concepts like sorting, searching, linked lists, arrays, stacks, queues, and more.
 
 ## Prepares for coding interviews: 
-    If you're planning to pursue a career in software development, problem-solving questions are a common part of coding interviews. By practicing these questions early on, you become better prepared for coding interviews, as you develop problem-solving strategies and gain confidence in your coding abilities.
+If you're planning to pursue a career in software development, problem-solving questions are a common part of coding interviews. By practicing these questions early on, you become better prepared for coding interviews, as you develop problem-solving strategies and gain confidence in your coding abilities.
 
 ## Encourages creativity and innovation:
-    Problem-solving questions allow you to think creatively and find innovative solutions to challenges. It promotes a mindset of exploring different approaches, optimizing code, and finding elegant solutions.
+Problem-solving questions allow you to think creatively and find innovative solutions to challenges. It promotes a mindset of exploring different approaches, optimizing code, and finding elegant solutions.
 
 ## Builds resilience and perseverance: 
-    Problem-solving can sometimes be challenging and require perseverance. By regularly tackling difficult problems, you develop resilience and the ability to tackle complex programming tasks with determination and patience.
+Problem-solving can sometimes be challenging and require perseverance. By regularly tackling difficult problems, you develop resilience and the ability to tackle complex programming tasks with determination and patience.
 
 # Problem_Solving_1
 It contains 12 different tasks for the basic level of C. This PDF focuses on introducing fundamental problem-solving concepts and techniques in C programming. It is designed for beginners or individuals who are new to programming. The problems in this PDF typically cover basic programming constructs such as patterns, loops, conditionals, functions. The emphasis is on building a strong foundation in problem-solving and getting familiar with common programming patterns.
