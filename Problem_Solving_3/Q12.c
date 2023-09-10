@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/* Write a C function that returns the count of the longest consecutive occurrence of a given number in an array . */
+
+
 int FindLongest(int size, int * arr, int number); 
 
 int main(){
