@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include "string.h"
+/*  You are given a sentence s​ and an integer k​. You want to truncate s​ such that it contains only the first k​ words. Return s​ ​ after truncating it. */
+
+
 char *truncateSentence(char * s, int k);
 
 int main(){
