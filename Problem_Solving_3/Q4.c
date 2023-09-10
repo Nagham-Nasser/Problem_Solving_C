@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include "string.h"
+/* Given a sentence, print each word of the sentence in a new line. */
+
+
 void SentenceToWords (char *s);
 int main(){
 	char *s="Hellow Everyone I am Nagham";
