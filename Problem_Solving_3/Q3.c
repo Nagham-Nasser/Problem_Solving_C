@@ -1,5 +1,14 @@
 #include <stdio.h>
 #include <string.h>
+/* The website considers a password to be strong if it satisfies the following criteria:
+• Its length is at least 6 digits. 
+• It contains at least one digit. 
+• It contains at least one lowercase English character. 
+• It contains at least one uppercase English character. 
+• It contains at least one special character. The special characters are: !@#$%^&*()-+
+ Given the string, can you find the minimum number of characters she must add to make her password strong?
+	*/
+
 typedef enum{
 	false = 0,
 	true
