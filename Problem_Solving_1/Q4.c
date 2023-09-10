@@ -1,5 +1,14 @@
 #include<stdio.h>
 
+/* An online retailer sells five different products whose retail prices are
+	Product_ID 		Price
+ 	 1			2.98
+   	 2			4.5
+     	 3			9.98
+       	 4			4.49
+	 5			6.87
+  */
+
 int main(){
 	/* (Calculating Sales) An online retailer sells five 
 	different products whose retail prices are 
