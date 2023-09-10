@@ -3,6 +3,7 @@
 int maximumNumOfConsecutiveOnes (int *arr, int size);
 
 int main(){
+/* Given a binary array nums, return the maximum number of consecutive 1's in the array */
 	int arr [17]= {1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1};
 	int x = maximumNumOfConsecutiveOnes(arr,17);
 	printf("%d",x);
