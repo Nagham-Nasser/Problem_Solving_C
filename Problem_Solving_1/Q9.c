@@ -1,4 +1,6 @@
 #include <stdio.h>
+/*  Write a function perfect that determines if parameter number is a perfect number. */
+
 int PerfectNum(unsigned int x);
 int main(){
 	unsigned int counter = 0,res,counter2,result=0;
