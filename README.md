@@ -16,7 +16,7 @@ Problem-solving questions often involve the use of fundamental algorithms and da
 #### Prepares for coding interviews: 
 If you're planning to pursue a career in software development, problem-solving questions are a common part of coding interviews. By practicing these questions early on, you become better prepared for coding interviews, as you develop problem-solving strategies and gain confidence in your coding abilities.
 
-## Encourages creativity and innovation:
+#### Encourages creativity and innovation:
 Problem-solving questions allow you to think creatively and find innovative solutions to challenges. It promotes a mindset of exploring different approaches, optimizing code, and finding elegant solutions.
 
 #### Builds resilience and perseverance: 
