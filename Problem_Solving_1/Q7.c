@@ -1,4 +1,6 @@
 #include <stdio.h>
+/*  Write a function that displays a solid square of any character ex : # whose side is specified in integer parameter side. */
+
 
 void PrintChar (unsigned int x);
 
