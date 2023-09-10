@@ -1,6 +1,9 @@
 #include <stdio.h>
 unsigned int GCD (unsigned int x, unsigned int y);
 int main(){
+/* Write function gcd that returns the greatest common divisor of two integers.*/
+
+	
 	unsigned int x , y;
 	printf ("Enter the first number : ");
 	scanf ("%i",&x);
