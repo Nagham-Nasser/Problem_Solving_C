@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
+
+/* Write a C function to convert a hexadecimal number to decimal */
+
 int hexToDecimal(char * hex);
 
 int main(){
