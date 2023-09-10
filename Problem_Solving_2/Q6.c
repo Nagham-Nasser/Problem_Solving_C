@@ -1,6 +1,8 @@
 #include <stdbool.h>
 #include <string.h>
-
+/* Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.*/
+    
+    
 bool checkIfPangram(char* sentence) {
     int letterCount[26] = {0}; 
 
