@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*  Write a function multiple that determines for a pair of integers whether the second integer is a multiple of the first.
+The function should take two integer arguments and return 1 (true) if the second is a multiple of the first, and 0 (false) otherwise */
+
 char multiple (unsigned int x, unsigned int y);
 
 int main(){
