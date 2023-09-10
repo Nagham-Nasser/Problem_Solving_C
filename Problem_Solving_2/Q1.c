@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+/* Write a program that defines and uses macro MINIMUM3 to determine the smallest of three numeric values. */
 
 #define MINIMUM3(n1,n2,n3) do{\
                     if((n1<n2)&&(n1<n3)){\
