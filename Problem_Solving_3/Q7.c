@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+/* Write a C program to find the longest occurrence of an even word (number of characters is even )in a given sentence */
 
 char* LongestEvenWord(char* sentence) {
     char* longestWord = NULL;
