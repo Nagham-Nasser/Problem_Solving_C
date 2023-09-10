@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*  Write a program that defines and uses macro PRINTARRAY to print an array of integers.*/
+
 #define PRINTARRAY(array,n) \
 do {\
 	unsigned int counter;\
