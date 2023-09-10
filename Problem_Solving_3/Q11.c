@@ -2,6 +2,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+/* Write a C function to reverse a sentence */
+
 char* reverseSentence(char* str);
 
 int main() {
