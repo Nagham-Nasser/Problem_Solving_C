@@ -1,4 +1,10 @@
 #include <stdio.h>
+/* You are given an integer array nums. Let product be the product of all values in the array nums, x is the prouduct .
+Return : 
+1 if x is positive
+-1 if x is negative 
+0 if x is zero
+*/
 
 int arraySign(char* nums, int numsSize);
 
