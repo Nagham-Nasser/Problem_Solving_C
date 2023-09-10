@@ -2,13 +2,13 @@
 We will discuss three levels in problem Solving with their answers. It is recommended to start solving problem solving questions while studying. Starting to solve problem-solving questions while studying C programming offers several advantages:
 
 ## Enhances understanding of concepts: 
-    Problem-solving questions require you to apply the concepts you've learned in C programming. By solving these questions, you gain a deeper understanding of how to use language features, data structures, and algorithms to solve real-world problems.
+Problem-solving questions require you to apply the concepts you've learned in C programming. By solving these questions, you gain a deeper understanding of how to use language features, data structures, and algorithms to solve real-world problems.
 
 ## Improves coding skills:
-    Regularly practicing problem-solving questions helps improve your coding skills in C. You become more familiar with the syntax, structure, and best practices of the language. Also it enhances your ability to write clean, efficient, and readable code.
+Regularly practicing problem-solving questions helps improve your coding skills in C. You become more familiar with the syntax, structure, and best practices of the language. Also it enhances your ability to write clean, efficient, and readable code.
 
 ## Builds problem-solving skills: 
-    Problem-solving questions challenge you to think critically and analytically. They improve your ability to break down complex problems into smaller, manageable parts. This skill is essential not only in programming but also in various other domains.
+Problem-solving questions challenge you to think critically and analytically. They improve your ability to break down complex problems into smaller, manageable parts. This skill is essential not only in programming but also in various other domains.
 
 ## Increases familiarity with common algorithms and data structures: 
     Problem-solving questions often involve the use of fundamental algorithms and data structures. By solving a variety of problems, you become more comfortable with concepts like sorting, searching, linked lists, arrays, stacks, queues, and more.
