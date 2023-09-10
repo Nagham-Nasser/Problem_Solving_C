@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* Write a C function that counts the number of 1`s in an unsigned 32-bit number. */
 
 int countOnes(unsigned int n);
 
