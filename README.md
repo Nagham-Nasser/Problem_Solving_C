@@ -1,7 +1,7 @@
 # Problem_Solving_C
 We will discuss three levels in problem Solving with their answers. It is recommended to start solving problem solving questions while studying. Starting to solve problem-solving questions while studying C programming offers several advantages:
 
-###### Enhances understanding of concepts: 
+##### Enhances understanding of concepts: 
 Problem-solving questions require you to apply the concepts you've learned in C programming. By solving these questions, you gain a deeper understanding of how to use language features, data structures, and algorithms to solve real-world problems.
 
 #### Improves coding skills:
